@@ -7,7 +7,7 @@ import os
 
 # --- Bot Configuration ---
 # Get your Telegram Bot Token from BotFather
-TELEGRAM_BOT_TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN', "YOUR_TELEGRAM_BOT_TOKEN_HERE")
+TELEGRAM_BOT_TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN', "7551771961:AAFdLFA8CVI5ErpunxPzhF1SD9ux6Bnrr08")
 
 # The URL from which to fetch the list of movie source websites.
 # This is a placeholder; you'll need to determine the actual URL or method.
